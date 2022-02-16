@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains the information about travel time tomography.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-510-introduction-to-seismology-spring-2010/fab60f6cccd8c250bb8c5e897aa838b6_lec7.pdf
+file: /media/courses/12-510-introduction-to-seismology-spring-2010/fab60f6cccd8c250bb8c5e897aa838b6_lec7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec7.pdf
 uid: fab60f6c-ccd8-c250-bb8c-5e897aa838b6
