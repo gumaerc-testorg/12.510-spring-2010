@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides lecture notes from the Spring 2008 offering of
+  12.510 Introduction to Seismology.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: dc66360b-1d1a-9bb2-e952-248ef65670a7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The following files are from the Spring 2008 offering of this course. The lecture notes were scribed by students who took this class.
@@ -36,7 +42,7 @@ SCRIBED BY
 Introductory lecture
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec1))
+({{% resource_link d77d74b5-4717-5599-4a9d-ae8a19eddba0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Darrell Coles
@@ -51,7 +57,7 @@ Darrell Coles
 Stress and strain
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec2))
+({{% resource_link 5fc7c6ed-5241-983e-4b7a-386c90cc47df "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Shane Mcgary
@@ -74,7 +80,7 @@ Wave equation
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec3))
+({{% resource_link 8f3b2a1f-2409-321d-1c2d-993a8c092c6f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Katie Atkinson
@@ -89,7 +95,7 @@ Katie Atkinson
 Wave equation (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec4))
+({{% resource_link 9a24567c-bc44-9305-6546-d4539d1c77bd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Katie Atkinson
@@ -114,7 +120,7 @@ Slowness
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec5))
+({{% resource_link 52345d6a-3066-ada0-f324-42f2c62cb7d8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Jennifer Furstenau
@@ -129,7 +135,7 @@ Jennifer Furstenau
 Travel time curves
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec6))
+({{% resource_link 203934a9-82ca-3222-a015-fb7dc98753c5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Sudhish Bakku
@@ -144,7 +150,7 @@ Sudhish Bakku
 Travel time tomography
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec7))
+({{% resource_link fab60f6c-ccd8-c250-bb8c-5e897aa838b6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Binghuai Lin
@@ -159,7 +165,7 @@ Binghuai Lin
 Travel time tomography (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec8))
+({{% resource_link 2d2a7b9e-6433-b78a-aeff-104334ad2b95 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Binghuai Lin
@@ -174,7 +180,7 @@ Binghuai Lin
 Snell's law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec9))
+({{% resource_link c1b11205-d6e9-d4d6-05b3-dd003ebba406 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Sudhish Bakku
@@ -189,7 +195,7 @@ Sudhish Bakku
 Critical and post-critical reflection
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec10))
+({{% resource_link e773c4f2-8b07-6c80-d070-47d25018f593 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Sudhish Bakku
@@ -204,7 +210,7 @@ Sudhish Bakku
 Surface waves-ground roll
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec11))
+({{% resource_link d1bb9f5c-7ac6-3ca0-a0a2-b29c066cd3fc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Michael Szulczewski
@@ -219,7 +225,7 @@ Michael Szulczewski
 Travel time tomography
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec12))
+({{% resource_link c08aed61-51a6-2870-da27-5f098690bd3d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Sami Alsaadan
@@ -242,7 +248,7 @@ Fresnel zones
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec13))
+({{% resource_link 6b7960da-f10d-bd29-ebef-ce32496835b1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Sami Alsaadan
@@ -257,7 +263,7 @@ Sami Alsaadan
 Travel time tomography (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec14))
+({{% resource_link d901b1c3-90c0-a681-5a13-b549bf53d7ec "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Sami Alsaadan
@@ -272,7 +278,7 @@ Sami Alsaadan
 Normal modes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec15))
+({{% resource_link 2c6db721-b929-2d12-df21-db1fdbaec033 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Claire Willis
@@ -287,7 +293,7 @@ Claire Willis
 Anisotropy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec16))
+({{% resource_link f79a24a2-c634-244d-ed21-f26f8a682b35 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Claire Willis
@@ -302,7 +308,7 @@ Claire Willis
 Earthquake
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec17))
+({{% resource_link 06311bd2-9de9-61e8-722f-2c65278ea2b3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Binghuai Lin
@@ -317,7 +323,7 @@ Binghuai Lin
 Focal mechanics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec18))
+({{% resource_link 4257bb07-2825-1224-2970-dfa6e98be218 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Katie Atkinson
@@ -332,7 +338,7 @@ Katie Atkinson
 Focal mechanics (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec19))
+({{% resource_link 4aeee2b7-1cad-0889-5e22-3d5b894464d6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Sami Alsaadan
