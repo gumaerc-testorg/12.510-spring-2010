@@ -6,6 +6,7 @@ file: /courses/12-510-introduction-to-seismology-spring-2010/74753d0493936dc5c8e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file is a resource which contains the information about problem set 4.
-

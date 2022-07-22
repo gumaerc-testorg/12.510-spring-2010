@@ -5,6 +5,7 @@ file: /courses/12-510-introduction-to-seismology-spring-2010/e773c4f28b076c80d07
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the information about critical and post-critical reflection.
-

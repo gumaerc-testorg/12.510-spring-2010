@@ -5,6 +5,7 @@ file: /courses/12-510-introduction-to-seismology-spring-2010/c1b11205d6e9d4d605b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

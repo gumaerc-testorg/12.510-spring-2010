@@ -5,6 +5,7 @@ file: /courses/12-510-introduction-to-seismology-spring-2010/efdced324b3ca0d58d0
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file is a supporting file for assignments section.
-

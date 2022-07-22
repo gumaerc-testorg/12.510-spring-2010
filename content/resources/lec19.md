@@ -6,6 +6,7 @@ file: /courses/12-510-introduction-to-seismology-spring-2010/4aeee2b71cad08895e2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the information about A quick review of the Moment Tensor and focal mechanisms.
-
