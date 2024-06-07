@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information about A quick review of the Moment
   Tensor and focal mechanisms.
 file: /courses/12-510-introduction-to-seismology-spring-2010/4aeee2b71cad08895e223d5b894464d6_lec19.pdf
+file_size: 734018
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
