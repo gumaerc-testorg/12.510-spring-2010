@@ -2,6 +2,7 @@
 content_type: resource
 description: This file is a supporting file for assignments section.
 file: /courses/12-510-introduction-to-seismology-spring-2010/75a9ce7c644851dec6ff7eb085f1c6b7_plotrays.m
+file_size: 2181
 file_type: text/plain
 learning_resource_types:
 - Assignments

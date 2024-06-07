@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information about instrumentation.
 file: /courses/12-510-introduction-to-seismology-spring-2010/d77d74b5471755994a9dae8a19eddba0_lec1.pdf
+file_size: 144940
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

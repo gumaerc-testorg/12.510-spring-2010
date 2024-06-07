@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information about Earthquake.
 file: /courses/12-510-introduction-to-seismology-spring-2010/06311bd29de961e8722f2c65278ea2b3_lec17.pdf
+file_size: 132136
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
