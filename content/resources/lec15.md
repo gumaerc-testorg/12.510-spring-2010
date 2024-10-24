@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about normal modes.
-file: /courses/12-510-introduction-to-seismology-spring-2010/2c6db721b9292d12df21db1fdbaec033_lec15.pdf
+file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/2c6db721b9292d12df21db1fdbaec033_lec15.pdf
 file_size: 338638
 file_type: application/pdf
 learning_resource_types:
