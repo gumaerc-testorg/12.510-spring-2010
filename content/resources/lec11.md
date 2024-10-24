@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about surface waves-ground roll.
-file: /courses/12-510-introduction-to-seismology-spring-2010/d1bb9f5c7ac63ca0a0a2b29c066cd3fc_lec11.pdf
+file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/d1bb9f5c7ac63ca0a0a2b29c066cd3fc_lec11.pdf
 file_size: 239676
 file_type: application/pdf
 learning_resource_types:
