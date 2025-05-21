@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file is a supporting file for assignments section.
-file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/aceecd0a77304dcc11be6146592ca848_yprime.m
+file: /courses/12-510-introduction-to-seismology-spring-2010/aceecd0a77304dcc11be6146592ca848_yprime.m
 file_size: 976
 file_type: text/plain
 learning_resource_types:

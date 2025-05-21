@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about travel time tomography.
-file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/fab60f6cccd8c250bb8c5e897aa838b6_lec7.pdf
+file: /courses/12-510-introduction-to-seismology-spring-2010/fab60f6cccd8c250bb8c5e897aa838b6_lec7.pdf
 file_size: 336864
 file_type: application/pdf
 learning_resource_types:

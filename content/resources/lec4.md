@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about wave equation.
-file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/9a24567cbc4493056546d4539d1c77bd_lec4.pdf
+file: /courses/12-510-introduction-to-seismology-spring-2010/9a24567cbc4493056546d4539d1c77bd_lec4.pdf
 file_size: 868377
 file_type: application/pdf
 learning_resource_types:
