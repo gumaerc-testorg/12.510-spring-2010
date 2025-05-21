@@ -2,7 +2,7 @@
 content_type: resource
 description: This file is a resource which contains the information about problem
   set 4.
-file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/74753d0493936dc5c8ec65b062568d54_problem_set_4.pdf
+file: /courses/12-510-introduction-to-seismology-spring-2010/74753d0493936dc5c8ec65b062568d54_problem_set_4.pdf
 file_size: 141346
 file_type: application/pdf
 learning_resource_types:

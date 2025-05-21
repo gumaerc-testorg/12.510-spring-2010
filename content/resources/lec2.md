@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about stress and strain.
-file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/5fc7c6ed5241983e4b7a386c90cc47df_lec2.pdf
+file: /courses/12-510-introduction-to-seismology-spring-2010/5fc7c6ed5241983e4b7a386c90cc47df_lec2.pdf
 file_size: 618170
 file_type: application/pdf
 learning_resource_types:
