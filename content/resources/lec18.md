@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about Focal mechanics.
-file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/4257bb07282512242970dfa6e98be218_lec18.pdf
+file: /courses/12-510-introduction-to-seismology-spring-2010/4257bb07282512242970dfa6e98be218_lec18.pdf
 file_size: 816779
 file_type: application/pdf
 learning_resource_types:

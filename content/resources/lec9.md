@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/c1b11205d6e9d4d605b3dd003ebba406_lec9.pdf
+file: /courses/12-510-introduction-to-seismology-spring-2010/c1b11205d6e9d4d605b3dd003ebba406_lec9.pdf
 file_size: 317074
 file_type: application/pdf
 learning_resource_types:
