@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about Surface wave Tomography.
-file: /courses/12-510-introduction-to-seismology-spring-2010/d901b1c390c0a6815a13b549bf53d7ec_lec14.pdf
+file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/d901b1c390c0a6815a13b549bf53d7ec_lec14.pdf
 file_size: 348053
 file_type: application/pdf
 learning_resource_types:

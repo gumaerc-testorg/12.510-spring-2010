@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about travel time curves.
-file: /courses/12-510-introduction-to-seismology-spring-2010/203934a982ca3222a015fb7dc98753c5_lec6.pdf
+file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/203934a982ca3222a015fb7dc98753c5_lec6.pdf
 file_size: 212380
 file_type: application/pdf
 learning_resource_types:

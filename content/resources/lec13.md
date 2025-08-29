@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about Model uniqueness.
-file: /courses/12-510-introduction-to-seismology-spring-2010/6b7960daf10dbd29ebefce32496835b1_lec13.pdf
+file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/6b7960daf10dbd29ebefce32496835b1_lec13.pdf
 file_size: 468209
 file_type: application/pdf
 learning_resource_types:
