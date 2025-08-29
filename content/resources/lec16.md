@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about anisotropy.
-file: /courses/12-510-introduction-to-seismology-spring-2010/f79a24a2c634244ded21f26f8a682b35_lec16.pdf
+file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/f79a24a2c634244ded21f26f8a682b35_lec16.pdf
 file_size: 172805
 file_type: application/pdf
 learning_resource_types:

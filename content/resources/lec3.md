@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about equation of motion.
-file: /courses/12-510-introduction-to-seismology-spring-2010/8f3b2a1f2409321d1c2d993a8c092c6f_lec3.pdf
+file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/8f3b2a1f2409321d1c2d993a8c092c6f_lec3.pdf
 file_size: 233352
 file_type: application/pdf
 learning_resource_types:
