@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about critical and post-critical reflection.
-file: /courses/12-510-introduction-to-seismology-spring-2010/e773c4f28b076c80d07047d25018f593_lec10.pdf
+file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/e773c4f28b076c80d07047d25018f593_lec10.pdf
 file_size: 309410
 file_type: application/pdf
 learning_resource_types:

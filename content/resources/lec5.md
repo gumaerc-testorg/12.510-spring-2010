@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about separation of variables.
-file: /courses/12-510-introduction-to-seismology-spring-2010/52345d6a3066ada0f32442f2c62cb7d8_lec5.pdf
+file: /ol-ocw-studio-app/courses/12-510-introduction-to-seismology-spring-2010/52345d6a3066ada0f32442f2c62cb7d8_lec5.pdf
 file_size: 241798
 file_type: application/pdf
 learning_resource_types:
